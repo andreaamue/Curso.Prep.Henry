@@ -1,0 +1,11 @@
+1.     
+    * Variables: Datos que puedo guardar para volver a utilizar. Tienen un nombre y le puedo asignar valores de datos que pueden variar, cambiar en cualquier momento.
+escritura:
+var firstName = 'Andrea';
+let lastName = 'Amue';
+const favouritefood = 'Asado';
+
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
